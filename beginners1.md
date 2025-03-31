@@ -42,3 +42,31 @@
 <!-- 10.what is the use of pandas groupby() function? -->
 
 ![alt text](image-12.png)
+
+<!-- 11.how to create a dataframe from lists? -->
+
+![alt text](image-13.png)
+
+
+<!-- 12.how to create a dataframe from dictionary? -->
+
+![alt text](image-14.png)
+![alt text](image-15.png)
+
+<!-- 13.how to combine dataframes using join() function? -->
+
+The join() function in Pandas is used to merge two DataFrames based on their common index or column.
+
+Key Points:
+It helps extract data from multiple DataFrames that share common columns.
+
+It combines the data in a side-by-side (horizontal) manner.
+![alt text](image-16.png)
+
+
+<!-- 14.which method works best for vertical stacking of dataframes? -->
+
+![alt text](image-17.png)
+![alt text](image-18.png)
+
+<!-- 15.how to merge dataframes in pandas? -->
